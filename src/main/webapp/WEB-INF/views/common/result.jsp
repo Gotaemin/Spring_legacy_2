@@ -8,8 +8,13 @@
 </head>
 <body>
 
-
-<h1>Test2 Page</h1>
-
 </body>
+
+
+<script type="text/javascript">
+	alert('${msg}');
+
+	location.href='${path}';
+
+</script>
 </html>
